@@ -1,1 +1,4 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+h2 {
+  text-align: center;
+}
